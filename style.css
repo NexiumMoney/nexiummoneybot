@@ -59,7 +59,7 @@ a {
   width: 445px;
   height: 100%;
   background-size: cover;
-  background-image: url("assets/images/background.jpg");
+  background-image: url("assets/images/fon.jpg");
   position: absolute;
   z-index: -1;
 }
